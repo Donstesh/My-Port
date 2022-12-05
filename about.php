@@ -43,7 +43,7 @@
                 </div>
             </div>
 
-            <a target="_blank" href="https://<?php echo $about['about_button']; ?>" class="btn"> download CV <i
+            <a target="_blank" href="https://<?php echo $about['about_button']; ?>" class="btn"> Get My Resume <i
                     class="fas fa-download"></i> </a>
 
         </div>

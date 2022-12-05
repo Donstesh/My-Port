@@ -19,7 +19,7 @@
         <h3>hi, i am <?php echo $about['about_name']; ?> </h3>
         <span> <?php echo $about['about_title']; ?></span>
         <p><?php echo $about['about_desc']; ?></p>
-        <a href="tel:<?php echo $about['about_hire']; ?>" class="btn"> Hire Me <i class="fas fa-phone"></i> </a>
+        <a href="tel:<?php echo $about['about_hire']; ?>" class="btn"> Get in Touch <i class="fas fa-phone"></i> </a>
     </div>
 </section>
 

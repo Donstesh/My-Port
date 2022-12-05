@@ -30,7 +30,7 @@
 
                 <div class="box">
                     <h3> <span>name : </span> <?php echo $about['about_name']; ?> </h3>
-                    <h3> <span>age : </span> <?php echo $about['about_age']; ?> </h3>
+                    <h3> <span>stack : </span> <?php echo $about['about_age']; ?> </h3>
                     <h3> <span>email : </span> <?php echo $about['about_email']; ?> </h3>
                     <h3> <span>address : </span><?php echo $about['about_address']; ?> </h3>
                 </div>

@@ -1,14 +1,14 @@
 <?php
 	// Setting up the time zone
-	date_default_timezone_set('Asia/Karachi');
+	date_default_timezone_set('Africa/Nairobi');
 	// Host Name
 	$db_hostname = 'localhost';
 	// Database Name
-	$db_name = 'tanzame';
+	$db_name = 'stephens_stesh';
 	// Database Username
-	$db_username = 'root';
+	$db_username = 'stephens_stesh';
 	// Database Password
-	$db_password = '';
+	$db_password = 'rtnizWRO_ZnX';
 	
 	try {
 

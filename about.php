@@ -71,6 +71,28 @@
     </div>
 </section>
 
+<section class="education">
+    <h1 class="heading"> <span>my</span> education </h1>
+    <div class="box-container">
+        <?php
+$a=1;
+$stmt = $conn->prepare(
+     "SELECT * FROM education");
+$stmt->execute();
+$education = $stmt->fetchAll();
+foreach($education as $row) 
+{  	    
+?>
+        <div class="box">
+            <i class="fas fa-graduation-cap"></i>
+            <span><?php echo $row['education_year']; ?></span>
+            <h3><?php echo $row['education_title']; ?></h3>
+            <p><?php echo $row['education_desc']; ?></p>
+        </div>
+        <?php } ?>
+    </div>
+</section>
+
 <section class="skills">
     <h1 class="heading"> <span>my</span> skills </h1>
     <div class="box-container">
@@ -102,26 +124,6 @@
 
 </section>
 
-<section class="education">
-    <h1 class="heading"> <span>my</span> education </h1>
-    <div class="box-container">
-        <?php
-$a=1;
-$stmt = $conn->prepare(
-     "SELECT * FROM education");
-$stmt->execute();
-$education = $stmt->fetchAll();
-foreach($education as $row) 
-{  	    
-?>
-        <div class="box">
-            <i class="fas fa-graduation-cap"></i>
-            <span><?php echo $row['education_year']; ?></span>
-            <h3><?php echo $row['education_title']; ?></h3>
-            <p><?php echo $row['education_desc']; ?></p>
-        </div>
-        <?php } ?>
-    </div>
-</section>
+
 
 <?php include("template/front/navbar.php"); ?>

@@ -99,6 +99,32 @@
             <h3>react.js</h3>
         </div>
     </div>
+    <div class="box-container">
+        <div class="box">
+            <img src="storage/skills/icon-1.png">
+            <h3>html</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-2.png">
+            <h3>css</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-3.png">
+            <h3>javascript</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-4.png">
+            <h3>sass</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-5.png">
+            <h3>jquery</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-6.png">
+            <h3>react.js</h3>
+        </div>
+    </div>
 
 </section>
 

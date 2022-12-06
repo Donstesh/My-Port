@@ -75,60 +75,60 @@
     <h1 class="heading"> <span>my</span> skills </h1>
     <div class="box-container">
         <div class="box">
-            <img src="storage/skills/icon-1.png">
-            <h3>html</h3>
+            <img src="storage/skills/icon-7.png">
+            <h3>Laravel</h3>
         </div>
         <div class="box">
-            <img src="storage/skills/icon-2.png">
-            <h3>css</h3>
+            <img src="storage/skills/icon-8.png">
+            <h3>Vue.JS</h3>
         </div>
         <div class="box">
-            <img src="storage/skills/icon-3.png">
-            <h3>javascript</h3>
+            <img src="storage/skills/icon-10.png">
+            <h3>Tailwind</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-11.png">
+            <h3>PHP</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-12.png">
+            <h3>nodejs</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-13.png">
+            <h3>Kotlin</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-9.png">
+            <h3>flutter</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-5.png">
+            <h3>firebase</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-6.png">
+            <h3>react.js</h3>
         </div>
         <div class="box">
             <img src="storage/skills/icon-4.png">
             <h3>sass</h3>
         </div>
         <div class="box">
-            <img src="storage/skills/icon-5.png">
-            <h3>jquery</h3>
-        </div>
-        <div class="box">
-            <img src="storage/skills/icon-6.png">
-            <h3>react.js</h3>
-        </div>
-        <div class="box">
             <img src="storage/skills/icon-1.png">
-            <h3>html</h3>
-        </div>
-        <div class="box">
-            <img src="storage/skills/icon-2.png">
-            <h3>css</h3>
+            <h3>html5</h3>
         </div>
         <div class="box">
             <img src="storage/skills/icon-3.png">
             <h3>javascript</h3>
         </div>
         <div class="box">
-            <img src="storage/skills/icon-4.png">
-            <h3>sass</h3>
+            <img src="storage/skills/icon-2.png">
+            <h3>css</h3>
         </div>
         <div class="box">
-            <img src="storage/skills/icon-5.png">
-            <h3>jquery</h3>
-        </div>
-        <div class="box">
-            <img src="storage/skills/icon-6.png">
-            <h3>react.js</h3>
-        </div>
-        <div class="box">
-            <img src="storage/skills/icon-5.png">
-            <h3>jquery</h3>
-        </div>
-        <div class="box">
-            <img src="storage/skills/icon-6.png">
-            <h3>react.js</h3>
+            <img src="storage/skills/icon-14.png">
+            <h3>git</h3>
         </div>
     </div>
 

@@ -36,7 +36,6 @@
                 </div>
 
                 <div class="box">
-                    <h3> <span>freelance : </span> <?php echo $about['about_free']; ?> </h3>
                     <h3> <span>skill : </span> <?php echo $about['about_skill']; ?> </h3>
                     <h3> <span>experience : </span> <?php echo $about['about_exp']; ?> </h3>
                     <h3> <span>language : </span> <?php echo $about['about_lang']; ?></h3>

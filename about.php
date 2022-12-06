@@ -122,6 +122,14 @@
             <img src="storage/skills/icon-6.png">
             <h3>react.js</h3>
         </div>
+        <div class="box">
+            <img src="storage/skills/icon-5.png">
+            <h3>jquery</h3>
+        </div>
+        <div class="box">
+            <img src="storage/skills/icon-6.png">
+            <h3>react.js</h3>
+        </div>
     </div>
 
 </section>

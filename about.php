@@ -98,8 +98,6 @@
             <img src="storage/skills/icon-6.png">
             <h3>react.js</h3>
         </div>
-    </div>
-    <div class="box-container">
         <div class="box">
             <img src="storage/skills/icon-1.png">
             <h3>html</h3>

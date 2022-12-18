@@ -22,7 +22,7 @@ foreach($portifolio as $row)
             <div class="content">
                 <h3><?php echo $row['portifolio_title']; ?></h3>
                 <p><?php echo $row['portifolio_desc']; ?></p>
-                <a href="https://<?php echo $row['portifolio_url']; ?>" class="btn"> Demo <i class="fas fa-link"></i>
+                <a href="https://<?php echo $row['portifolio_url']; ?>" class="btn"> Open Link <i class="fas fa-link"></i>
                 </a>
             </div>
         </div>
